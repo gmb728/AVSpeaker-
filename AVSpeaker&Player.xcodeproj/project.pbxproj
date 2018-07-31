@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD36C1782105CDE8007C9A15 /* AVSpeechToggle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVSpeechToggle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD36C1782105CDE8007C9A15 /* AVSpeaker&Player.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AVSpeaker&Player.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD36C17B2105CDE8007C9A15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD36C17D2105CDE8007C9A15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DD36C1802105CDE8007C9A15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		DD36C1792105CDE8007C9A15 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD36C1782105CDE8007C9A15 /* AVSpeechToggle.app */,
+				DD36C1782105CDE8007C9A15 /* AVSpeaker&Player.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DD36C1772105CDE8007C9A15 /* AVSpeechToggle */ = {
+		DD36C1772105CDE8007C9A15 /* AVSpeaker&Player */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD36C18A2105CDE9007C9A15 /* Build configuration list for PBXNativeTarget "AVSpeechToggle" */;
+			buildConfigurationList = DD36C18A2105CDE9007C9A15 /* Build configuration list for PBXNativeTarget "AVSpeaker&Player" */;
 			buildPhases = (
 				DD36C1742105CDE8007C9A15 /* Sources */,
 				DD36C1752105CDE8007C9A15 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = AVSpeechToggle;
+			name = "AVSpeaker&Player";
 			productName = AVSpeechToggle;
-			productReference = DD36C1782105CDE8007C9A15 /* AVSpeechToggle.app */;
+			productReference = DD36C1782105CDE8007C9A15 /* AVSpeaker&Player.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DD36C1732105CDE8007C9A15 /* Build configuration list for PBXProject "AVSpeechToggle" */;
+			buildConfigurationList = DD36C1732105CDE8007C9A15 /* Build configuration list for PBXProject "AVSpeaker&Player" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD36C1772105CDE8007C9A15 /* AVSpeechToggle */,
+				DD36C1772105CDE8007C9A15 /* AVSpeaker&Player */,
 			);
 		};
 /* End PBXProject section */
@@ -327,7 +327,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD36C1732105CDE8007C9A15 /* Build configuration list for PBXProject "AVSpeechToggle" */ = {
+		DD36C1732105CDE8007C9A15 /* Build configuration list for PBXProject "AVSpeaker&Player" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD36C1882105CDE9007C9A15 /* Debug */,
@@ -336,7 +336,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD36C18A2105CDE9007C9A15 /* Build configuration list for PBXNativeTarget "AVSpeechToggle" */ = {
+		DD36C18A2105CDE9007C9A15 /* Build configuration list for PBXNativeTarget "AVSpeaker&Player" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD36C18B2105CDE9007C9A15 /* Debug */,

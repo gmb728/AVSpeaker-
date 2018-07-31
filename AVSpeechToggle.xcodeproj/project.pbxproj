@@ -12,6 +12,9 @@
 		DD36C1812105CDE8007C9A15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD36C17F2105CDE8007C9A15 /* Main.storyboard */; };
 		DD36C1832105CDE9007C9A15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD36C1822105CDE9007C9A15 /* Assets.xcassets */; };
 		DD36C1862105CDE9007C9A15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD36C1842105CDE9007C9A15 /* LaunchScreen.storyboard */; };
+		DD36C190210819F3007C9A15 /* first love.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DD36C18F210819F2007C9A15 /* first love.mp4 */; };
+		DD36C197210FE6A7007C9A15 /* 花輪不愛我.m4a in Resources */ = {isa = PBXBuildFile; fileRef = DD36C196210FE6A7007C9A15 /* 花輪不愛我.m4a */; };
+		DD36C199210FE6B3007C9A15 /* 花輪不愛我.m4a in Resources */ = {isa = PBXBuildFile; fileRef = DD36C198210FE6B3007C9A15 /* 花輪不愛我.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		DD36C1822105CDE9007C9A15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD36C1852105CDE9007C9A15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD36C1872105CDE9007C9A15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD36C18F210819F2007C9A15 /* first love.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "first love.mp4"; sourceTree = "<group>"; };
+		DD36C196210FE6A7007C9A15 /* 花輪不愛我.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "花輪不愛我.m4a"; sourceTree = "<group>"; };
+		DD36C198210FE6B3007C9A15 /* 花輪不愛我.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "花輪不愛我.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		DD36C17A2105CDE8007C9A15 /* AVSpeechToggle */ = {
 			isa = PBXGroup;
 			children = (
+				DD36C18F210819F2007C9A15 /* first love.mp4 */,
+				DD36C196210FE6A7007C9A15 /* 花輪不愛我.m4a */,
+				DD36C198210FE6B3007C9A15 /* 花輪不愛我.m4a */,
 				DD36C17B2105CDE8007C9A15 /* AppDelegate.swift */,
 				DD36C17D2105CDE8007C9A15 /* ViewController.swift */,
 				DD36C17F2105CDE8007C9A15 /* Main.storyboard */,
@@ -123,8 +132,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD36C1862105CDE9007C9A15 /* LaunchScreen.storyboard in Resources */,
+				DD36C199210FE6B3007C9A15 /* 花輪不愛我.m4a in Resources */,
 				DD36C1832105CDE9007C9A15 /* Assets.xcassets in Resources */,
 				DD36C1812105CDE8007C9A15 /* Main.storyboard in Resources */,
+				DD36C190210819F3007C9A15 /* first love.mp4 in Resources */,
+				DD36C197210FE6A7007C9A15 /* 花輪不愛我.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
